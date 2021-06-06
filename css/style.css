@@ -157,7 +157,7 @@
 	height: 360px;
 }
 .happening-now {
-	background-color: #F6F8F9;
+		background-color: #F6F8F9;
 }
 .section-title-2 {
 	color: #202124;
@@ -165,10 +165,34 @@
 	height: 20px;
 	font-size: 24px;
 	margin-bottom: 40px;
+	/*margin: 58px 530px 40px 140px;*/
+}
+.section-block-2 {
+	margin-left: 140px;
+	margin-top: 58px;
+
+	width: 1160px;
+	height: 960px;
 }
 .left-block {
 	display: inline-block;
+	width: 760px;
+	height: 900px;
 }
 .right-block {
 	display: inline-block;
+	width: 360px;
+	height: 834px;
+}
+.img-left-1 {
+	margin-bottom: 40px;
+}
+.img-r-1 {
+	margin: 0 140px 102px 40px;
+}
+.img-r-2 {
+	margin: 0 140px 102px 40px;
+}
+.img-r-3 {
+	margin-left: 40px;
 }
