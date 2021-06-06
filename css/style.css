@@ -1,0 +1,142 @@
+.header-block {
+	display: inline-block;
+	margin: 11px 0 9px 20px;
+}
+.logo-p {
+	width: 38px;
+	height: 15px;
+	font-size: 13px;
+	color: #FA6980;
+	display: inline-block;
+}
+.home-p {
+	width: 33px;
+	height: 12px;
+	font-size: 11px;
+	color: #343638;
+	display: inline-block;
+	margin: 9px 0 9px 92px;
+}
+.discovery-p {
+	width: 64px;
+	height: 12px;
+	font-size: 11px;
+	color: #343638;
+	display: inline-block;
+	margin: 9px 0 9px 27px;
+}
+.photos-p {
+	width: 46px;
+	height: 12px;
+	font-size: 11px;
+	color: #343638;
+	display: inline-block;
+	margin: 9px 0 9px 22px;
+}
+.contact-p {
+	width: 53px;
+	height: 12px;
+	font-size: 11px;
+	color: #343638;
+	display: inline-block;
+	margin: 9px 0 9px 22px;
+}
+.trending-main-block {
+	margin-left: 140px;
+}
+.trending-block-title {
+	width: 1025px;
+	height: 20px;
+	font-size: 24px;
+	color: #202124;
+	margin-bottom: 40px;
+}
+.img-1 {
+	position: relative;
+}
+.img-text-1 {
+	position: absolute;
+	top: 163px;
+	left: 180px;
+	width: 280px;
+	height: 16px;
+	color: #FFFFFF;
+	font-size: 16px;
+}
+.trending-text-1 {
+	width: 280px;
+	height: 38px;
+	font-size: 13px;
+	color: #A6ADB4;
+	margin:  76px 40px 10px 40px;
+	display: inline-block;
+}
+.time {
+	margin: 10px 254px 40px 40px;
+}
+.img-2 {
+	position: relative;
+}
+.img-text-2 {
+	position: absolute;
+	top: 163px;
+	left: 580px;
+	width: 280px;
+	height: 16px;
+	color: #FFFFFF;
+	font-size: 16px;
+}
+.trending-text-2 {
+	width: 280px;
+	height: 38px;
+	font-size: 13px;
+	color: #A6ADB4;
+	margin:  76px 40px 10px 40px;
+	display: inline-block;
+}
+.img-3 {
+	position: relative;
+}
+.img-text-3 {
+	position: absolute;
+	top: 163px;
+	left: 980px;
+	width: 280px;
+	height: 16px;
+	color: #FFFFFF;
+	font-size: 16px;
+}
+.trending-text-3 {
+	width: 280px;
+	height: 38px;
+	font-size: 13px;
+	color: #A6ADB4;
+	margin:  76px 40px 10px 40px;
+	display: inline-block;
+}
+.time-p {
+	width: 40px;
+	height: 15px;
+	font-size: 13px;
+	color: #A6ADB4;
+	display: inline-block;
+}
+
+.trending-block-1 {
+	display: inline-block;
+	width: 360px;
+	height: 360px;
+
+}
+.trending-block-2 {
+	display: inline-block;
+	margin-left: 40px;
+	width: 360px;
+	height: 360px;
+}
+.trending-block-3 {
+	display: inline-block;
+	margin-left: 40px;
+	width: 360px;
+	height: 360px;
+}
